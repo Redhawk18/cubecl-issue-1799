@@ -1,0 +1,8 @@
+[package]
+name = "cubecl-nested-cube-fn"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+cubecl = { version = "0.10.0", features = ["cpu"] }
+
